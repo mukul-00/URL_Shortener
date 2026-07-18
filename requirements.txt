@@ -1,7 +1,5 @@
 fastapi
-
 sqlalchemy
-
 uvicorn
-
 pydantic-settings
+pytest
